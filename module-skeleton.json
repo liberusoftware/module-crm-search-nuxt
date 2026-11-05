@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-search-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-search",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-search-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/crm-search.md",
+  "presentationPlan": "projects/crm/nuxt/crm-search.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
